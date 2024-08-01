@@ -1,5 +1,7 @@
 # docker-desafio-go
 
+## O desafio consistia em fazer um olá mundo em GO com menos de 2MB
+
 Para executar a imagem faça:
 
 ```bash
